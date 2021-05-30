@@ -3,8 +3,8 @@ An Interactive Virtual Assistant for you
 
 Terrobyte is a Python made vitual assistance which perform many task like:
    <br> 1. Check For Vaccine 
-   <br> 2. 
-   <br> 3.
+   <br> 2. Record your Oxygen level and store the data in the form of .csv file.
+   <br> 3. 
    <br> 4. perform many other operation
    
    <br>
