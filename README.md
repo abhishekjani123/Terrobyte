@@ -11,6 +11,9 @@ Terrobyte is a Python made vitual assistance which perform many task like:
    Inspiration : Since covid vaccination has started people miss the chance of booking the vaccine as they don't know correct time for opening of slot for their PINCODE, so rather searching for the vaccine we can use Terrobyte not only that oxygen level can be recorded and stored in .csv file which help covid patient. 
    <br>
    <br>
+   Youtube Video Link: https://www.youtube.com/watch?v=ntZQcX3T2h0
+   <br>
+   <br>
    Made By:
   
    <br>
