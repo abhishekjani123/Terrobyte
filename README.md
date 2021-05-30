@@ -4,7 +4,7 @@ An Interactive Virtual Assistant for you
 Terrobyte is a Python made vitual assistance which perform many task like:
    <br> 1. Check For Vaccine 
    <br> 2. 
-   <br> 3.
+   <br> 3. Trivia Game with feature of random Question 
    <br> 4. perform many other operation
    
    <br>
