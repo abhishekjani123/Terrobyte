@@ -1,0 +1,83 @@
+[
+
+    {
+        "question": "Grand Central Terminal, Park Avenue, New York is the world's ?",
+        "options": ["A.largest railway station", 
+            "B. highest railway station", 
+            "C. longest railway station", 
+            "D. None of the abov"],
+        "answer": "A. largest railway station"
+    },
+    {
+        "question": "which became the 182nd member of the UN in 1993, is in the continent of Eritrea",
+        "options": ["A. Asia", 
+            "B. Africa", 
+            "C. Europe", 
+            "D. Australia"],
+        "answer": "B. Africa"
+    },
+    {
+        "question": " Fastest shorthand writer was ?",
+        "options": ["A. Dr. G. D. Bist", 
+            "B. J.R.D. Tata", 
+            "C. J.M. Tagore", 
+            "D. Khudada Khan"],
+        "answer": "A. Dr. G. D. Bist"
+    },
+    {
+        "question": " Golf player Vijay Singh belongs to which country ?",
+        "options": ["A. USA", 
+            "B. Fijia", 
+            "C. India", 
+            "D. China"],
+        "answer": "B. Fiji"
+    },
+    {
+        "question": " First Afghan War took place in ?",
+        "options": ["A. 1839", 
+            "B. 1837", 
+            "C. 1832", 
+            "D. 1830"],
+        "answer": "A. 1839"
+    },
+    {
+        "question": " Each year World Red Cross and Red Crescent Day is celebrated on ?",
+        "options": ["A. May 8", 
+            "B.  May 9", 
+            "C.  May 7", 
+            "D. May 11"],
+        "answer": "A. May 8"
+    },
+    {
+        "question": "Gravity setting chambers are used in industries to remove ?",
+        "options": ["A. SOx", 
+            "B. NOx", 
+            "C. ZOx", 
+            "D. suspended particulate matter"],
+        "answer": "D. suspended particulate matter "
+    },
+    {
+        "question": "Georgia, Uzbekistan and Turkmenistan became the members of UNO in ?",
+        "options": ["A. 1998", 
+            "B. 1997", 
+            "C. 1992", 
+            "D. 1993"],
+        "answer": "C. 1992"
+    },
+    {
+        "question": " Himalayan Mountaineering Institute is at ?",
+        "options": ["A.Darjeeling", 
+            "B. Dehradun", 
+            "C. Marmago", 
+            "D. Dispur"],
+        "answer": "A. Darjeeling"
+    },
+    {
+        "question": " Goa Shipyard Limited (GSL) was established in ?",
+        "options": ["A. 1958", 
+            "B. 1957", 
+            "C. 1956", 
+            "D. 1958"],
+        "answer": "B. 1957"
+    }
+    ]
